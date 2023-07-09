@@ -24,8 +24,6 @@ Please refer to the "demo.py" file for a demonstration of how to use the MCVnet 
 ## References
 Link to the research paper (if available)
 Any additional references or citations related to the MCVnet model
-License
-This project is licensed under the MIT License.
 
 Feel free to use, modify, and distribute this model for research and educational purposes.
 
